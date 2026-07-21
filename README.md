@@ -2,10 +2,9 @@
 
 ## 📌 Project Overview
 
-Briefly explain:
-- What the project does
-- Which tools you used
-- What problem it solves
+This project is an end-to-end financial analytics solution that analyses company financial performance, identifies revenue and expense trends, detects financial anomalies, and provides business insights through interactive Power BI dashboards.
+
+The project demonstrates data cleaning, exploratory data analysis, SQL-based financial analysis, and business intelligence reporting using Python, PostgreSQL, SQL, and Power BI.
 
 
 ## 🛠️ Tech Stack
